@@ -16,3 +16,5 @@ The objective is to deliver a data-driven analysis to inform aircraft selection 
 
 ## 1. Data understanding
 The dataset, sourced from the National Transportation Safety Board, provides detailed records of aviation accidents and incidents from 1962 to 2023. It covers events in the United States and international waters, offering a reliable basis for analyzing safety risks and operational factors in the aviation industry.
+
+![image](https://github.com/user-attachments/assets/05d2518d-127b-4a1f-afed-1c7cfe2aa565)
